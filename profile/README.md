@@ -2,3 +2,6 @@
 
 In questo spazio sono presenti tutti i materiali che hanno dato vita al progetto Mapping Mobilities
 https://mappingmobilities.fbk.eu
+
+- web
+contiene tutto il sito web del progetto
