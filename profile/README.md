@@ -5,3 +5,6 @@ https://mappingmobilities.fbk.eu
 
 - web
 contiene tutto il sito web del progetto
+
+- data
+contiene gli script utilizzati per l
