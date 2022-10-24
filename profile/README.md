@@ -28,6 +28,5 @@ https://mappingmobilities.fbk.eu
 
 - web
 contiene tutto il sito web del progetto
-
-- data
-contiene gli script utilizzati per l
+- data_curation
+contiene gli script utilizzati nel progetto
