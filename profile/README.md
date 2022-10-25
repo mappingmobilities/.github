@@ -32,5 +32,6 @@ https://mappingmobilities.fbk.eu
 contiene tutto il sito web del progetto
 - data_curation
 contiene gli script utilizzati nel progetto
-
+- la raccolta dei dati è avvenuta tramite EpiCollect utilizzando il progetto [https://five.epicollect.net/project/mapping-mobilities](https://five.epicollect.net/project/mapping-mobilities)
+  
 </div>
