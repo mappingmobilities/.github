@@ -1,6 +1,6 @@
 <div style="background-color: red">
   
-#  Mapping Mobilities  - A data journey into Trentino and migration phenomenon
+#  Mapping Mobilities  - Un’analisi storica e digitale dell’emigrazione trentina tra Otto e Novecento 
 
 
 <h3>Il progetto Mapping Mobilities</h3>
