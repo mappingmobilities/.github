@@ -1,3 +1,4 @@
+<div style="background-color: red">
 #  Mapping Mobilities  - A data journey into Trentino and migration phenomenon
 
 
@@ -30,3 +31,5 @@ https://mappingmobilities.fbk.eu
 contiene tutto il sito web del progetto
 - data_curation
 contiene gli script utilizzati nel progetto
+
+</div>
