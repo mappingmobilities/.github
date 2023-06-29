@@ -1,6 +1,6 @@
 <div style="background-color: red">
   
-#  Mapping Mobilities  - Un’analisi storica e digitale dell’emigrazione trentina tra Otto e Novecento 
+#  Mapping Mobilities  -  Un’analisi storica e digitale della mobilità dei trentini nell’Ottocento 
 
 
 <h3>Il progetto Mapping Mobilities</h3>
